@@ -12,6 +12,15 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimiomia&show_icons=true&theme=merko)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mimiomia&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimiomia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 
