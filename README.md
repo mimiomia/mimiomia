@@ -1,16 +1,13 @@
-### Hi there 👋
+🌟🎮 Brazilian student leveling up to be a game dev 🎮🌟 
 
-<!--
-**mimiomia/mimiomia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>🔍 Know more about me</summary>
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a secret project
+🌱 I’m currently learning Python
+😄 Pronouns: She/her
+⚡ Fun fact: The games I love the most are Gris, Planet of Lana, Tetris, and Tokimeki Memorial
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+
