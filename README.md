@@ -16,9 +16,16 @@
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mimiomia&theme=merko&hide_border=false)<br/>
+<a href="https://github.com/mimiomia/mimiomia">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false" />
+</a>
+<a href="https://github.com/mimiomia/mimiomia">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimiomia&theme=merko&hide_border=false" alt="Mimiomia's GitHub Stats" />
+</a>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
