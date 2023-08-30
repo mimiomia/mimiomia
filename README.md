@@ -21,21 +21,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mimiomia&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+---
 <!-- Markdown -->
+<br>
 
-
-<div style="display: flex; flex-direction: row; gap: 20px;">
-  <div style="flex: 1; background-color: #f0f0f0; padding: 20px; border-radius: 5px;">
-    <!-- Jokes Card -->
-    ![Jokes Card](https://readme-jokes.vercel.app/api)
-  </div>
-
-  <div style="flex: 1;">
-    <!-- Random Memes -->
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-  </div>
-</div>
-
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
 ---
 [![](https://visitcount.itsvg.in/api?id=mimiomia&icon=5&color=3)](https://visitcount.itsvg.in)
 
