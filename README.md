@@ -19,25 +19,24 @@
 
 
 ## 📊 GitHub Stats:
+
 <a href="https://github.com/mimiomia/mimiomia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="160em" width="42%" src="https://github-readme-stats.vercel.app/api?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false" />
 </a>
 <a href="https://github.com/mimiomia/mimiomia">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mimiomia&theme=merko&hide_border=false" alt="Mimiomia's GitHub Stats" />
+  <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimiomia&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 ---
-<!-- Markdown -->
+
 <br>
 
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+<a href="https://github.com/mimiomia/mimiomia">
+  <img height="160em" width="42%" src="https://readme-jokes.vercel.app/api" />
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mimiomia&icon=5&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
